@@ -6,4 +6,4 @@ package main
 // - UTXO model
 // - Protobuffer encoding
 // - GRPC transport (gossip)
-// POS consensus (to be determined...)
+// - POS consensus (to be determined...)
